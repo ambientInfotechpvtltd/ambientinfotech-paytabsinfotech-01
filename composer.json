@@ -16,5 +16,7 @@
     "psr-4": {
       "Ambientinfotech\\Paytabsinfotech\\": ""
     }
-  }
+  },
+  "minimum-stability": "dev",
+    "prefer-stable": true
 }
